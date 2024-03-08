@@ -49,7 +49,7 @@ The functions have to follow a strict rule. For example, you cannot intitialize 
 
 1. Clone the FdF repository:
 ```sh
-git clone https://github.com/rcortes-b/push_swap.git
+git clone https://github.com/rcortes-b/FdF.git
 ```
 
 2. Change to the project directory:
@@ -65,7 +65,7 @@ make
 ### 🤖 Use FdF
 Once the program is obtained you can test it (inside the repository there is a directory with maps):
 ```sh
-./FdF test_maps/<map_to_draw>
+./fdf test_maps/<map_to_draw>
 ```
 ### - Check out my profile on the intra of 42 school ↙️
 [https://profile.intra.42.fr/users/rcortes-]
